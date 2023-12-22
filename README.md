@@ -74,7 +74,7 @@ In order to run this project you need:
 
 ```sh
   cd my-folder
-  git clone https://github.com/jcmunav63/catalog-my-things.git
+  git clone https://github.com/Alejandroq12/catalog-my-things.git
 ```
 
 ### Install
